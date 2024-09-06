@@ -13,7 +13,8 @@ In this example, a dir. called container-lifecycle.vulnerability-management will
 # Updating the theme
 
 The theme is updated in a different manner.
+Go to the `themes/<theme>` directory and `git pull`
 
 # Uploading changes to prod
 
-Prod is hosted in a S3 bucket, so uploading is as easy as using the aws s3 command.
+To deploy, use the hugo command, like so: `hugo deploy --target production`
