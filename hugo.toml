@@ -136,3 +136,14 @@ url = "https://x.com/sergiorosello"
 name = "Rss"
 url = "/index.xml"
 
+
+[deployment]
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "production"
+URL = "s3://sergiorosello.com?region=eu-west-2"
+
+# name = "development"
+# URL = "s3://www.develop.sergiorosello.com?region=us-east-1"
+
