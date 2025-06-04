@@ -1,7 +1,7 @@
 ---
 title: 'The pursuit of an invisible smart home'
 author: Sergio Roselló
-date: 2025-06-02T11:15:18+02:00
+date: 2025-06-02
 description: I want to explore my journey with HomeAssistant and how I'm using it to explore 'user house interaction
 tags:
   - HomeAssistant
