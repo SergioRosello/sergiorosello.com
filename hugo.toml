@@ -69,9 +69,9 @@ theme = "hugo-blog-awesome"
     url = '/posts/'
     weight = 20
   [[Languages.en-gb.menu.main]]
-    pageRef="photography"
+    # pageRef="photography"
     name = 'Photography'
-    url = '/photography/'
+    url = 'https://photography.sergiorosello.com/'
     weight = 30
   [[Languages.en-gb.menu.main]]
     pageRef="about"
