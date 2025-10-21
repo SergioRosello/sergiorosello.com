@@ -78,6 +78,11 @@ theme = "hugo-blog-awesome"
     name = 'About'
     url = '/about/'
     weight = 40
+  [[Languages.en-gb.menu.main]]
+    pageRef="CV"
+    name = 'CV'
+    url = '/pdf/sergiorosello-cv.pdf'
+    weight = 50
 
 [Languages.en-gb.params]
   sitename = "tail -f ~/SergioRoselló/thoughts"
